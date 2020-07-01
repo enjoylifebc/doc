@@ -6,6 +6,7 @@
 ## setup container
 apt-get update
 apt-get install nmap vim
+pip install scrapy
 vi
  - colo delek
  
@@ -16,10 +17,10 @@ docker commit "container_id" docker_image_name
  - c.NotebookApp.password = ''
  - c.NotebookApp.token = ''
 
-pip install scrapy
 
-vi
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDI5MTk2OV19
+eyJoaXN0b3J5IjpbLTkzMDE5OThdfQ==
 -->
